@@ -1,8 +1,18 @@
-### Happy path - initialising a repo and making commits:
+# Walk through an example of initialising a repository and making commits
 
-Use the finder to create a folder in `Academy`. Call this folder `git-demo`.
+Create a directory: 
+- Use the finder to create a folder in `Academy`. 
+- Call this folder `git-demo`.
 
-Open Visual Studios code. Under `Start`, choose the option `Open a folder`. Open the folder called `git-demo`. In this folder, `create a file`. Call the file `README.md` and click away. Leave this file empty for now. The file extension `.md` denotes that it is a markdown file, this is similar to a text file. 
+Create a file inside the directory using VS Code:
+
+- Open Visual Studios code. Under `Start`
+- Choose the option `Open a folder`
+- Open the folder called `git-demo`
+- In this folder, `create a file`
+- Call the file `README.md` and click away
+- Leave this file empty for now. 
+- The file extension `.md` denotes that it is a markdown file, this is similar to a text file. 
 
 Outside of VS Code, open a terminal window.
 

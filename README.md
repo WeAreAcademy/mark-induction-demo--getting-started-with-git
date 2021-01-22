@@ -98,7 +98,7 @@ Continuing on from your work in Exercise 3 (Walk through an example of pushing t
 
 
 
-## Exercise 6: Working with multiple files TODO
+## Exercise 6: Working with different file types TODO
 
 > 🎯 **Success criterion:** blah
 
