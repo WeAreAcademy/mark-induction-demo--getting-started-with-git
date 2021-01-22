@@ -2,10 +2,6 @@
 
 ### Happy path - working with a remote repo without branches (https):
 
-So if we want to protect against our computer breaking then we want to find a way to store this info off of our own laptops. We use a remote repository for this. We are going to host them on GitHub. 
-
-If you have not already then create an account: choose a username which is professionally appropriate as you can build a reptutation through your account.
-
 Create a new repository on GitHub:
 
 - Click the new button next to the word `repositories`
