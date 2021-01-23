@@ -149,6 +149,10 @@ Checking the status again will show a clean working tree.
 
 The log will now show all four commits.
 
+## Continue independantly
+Now that we have walked through how to add files and how to make commits, please run through the process of adding to each file and committing your changes (you can make changes to both files in the same commit or in separate commits). Why not add your notes on your understanding of version control and make a new file to add your list of git commands which you have met so far?
+
+I also recommend looking at your README.md file, these are in effect the cover page of your repository - it should explain what the repository is all about. We will discuss writing a good README in the future. 
 
 
 

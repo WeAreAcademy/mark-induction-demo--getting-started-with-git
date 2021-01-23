@@ -74,6 +74,10 @@ As you go through, we recommend:
 - Making your own diagram of how the working directory, staging area and repository related
 - Keeping a cheat sheet of the commands you use in the process of initialising a repository and committing to it.
 
+### Extension - continue independantly
+Now that we have walked through how to add files and how to make commits, please run through the process of adding to each file and committing your changes (you can make changes to both files in the same commit or in separate commits). Why not add your notes on your understanding of version control and make a new file to add your list of git commands which you have met so far?
+
+I also recommend looking at your `README.md` file, these are in effect the cover page of your repository - it should explain what the repository is all about. We will discuss writing a good README in the future. 
 
 
 ## Exercise 3: Walk through an example of pushing to a remote repository
@@ -101,25 +105,31 @@ Continuing on from your work in Exercise 3 (Walk through an example of pushing t
 
 
 
-## Exercise 6: Working with different file types TODO
+## Exercise 6: Working with different file types
 
-> 🎯 **Success criterion:** blah
+> 🎯 **Success criterion:** a github repository including code which your pair has clones and successfully ran
 
-Moving code from repl.it to GitHub and cloning someone else's:
+So far we have only included markdown files in our repositories, however we want to be able to use git for code as well. Let's practice further making repositories including code in them.
 
-- Create a new folder
+- Create a new folder inside your `Academy` directory
 - Initialise a git repo here
-- Put your code off repl.it into a .py file in it
-- Write a relevant readme in markdown
-- Make a commit with both files
-- Make a remote repo
-- Push your local changes to the remote repo. 
-- Send the url to your pair. 
-- Clone theirs and run it locally on your machine.
+- Create a new python file here (`helloworld.py`)
+- Write a simple `Hello, world` script inside the file
+- Practice running the script via the command `python3 helloworld.py`
+- Make your initial commit
+- Create a remote repository on GitHub
+- Push your local up to the remote repository
+- Observe how it is available online
+- Make some changes and commit them: change the name so that the program greets your pair, add a relevant readme
+- Regularly push your local commits to the remote repository
+- Send the url to your partner, if they clone the repo then they should be able to run your prorgram (and be greeted!)
+- Let's turn this repo into a collection of small challenges - add files for the code for several coding katas. If you have used code wars then this is the ideal opportunity to make a record of some of your solutions. If not, complete a kata or two now and then add the code to your repository.
+- Remember to keep commiting regularly and pushing to the remote repository to keep it up to date.
 
-## Exercise 7: Moving your CLI game to GitHub TODO
 
-> 🎯 **Success criterion:** blah
+## Exercise 7: Moving your CLI game to GitHub
+
+> 🎯 **Success criterion:** adding a github repository with your CLI game in it
 
 - Work with your pair in order to transfer your Command Line game project to GitHub. 
 - Clone it onto the other machine so that you both have a copy. 
