@@ -37,7 +37,6 @@ Before following this content, we recommend you:
 - Have some familiarity with the command line
 
 
-
 ## Learning objectives:
 
 - Understand the advantages of using version control
@@ -59,9 +58,35 @@ Resources we recommend you use to increase your familiarity:
 
 It might be helpful for you to make notes of your understanding as you go along to reinforce your learning.
 
+## Exercise 2: Setting up your machine
 
+> 🎯 **Success criterion:** having git downloaded and setting up your name and email globally
 
-## Exercise 2: Walk through an example of initialising a repository and making commits
+If you have not used git on your Mac before then you will need to do some basic set up to get started.
+
+### Installing git:
+- Open a terminal
+- Run `git --version`
+- This normally checks the version
+- If you already have git installed it will tell you the version which is installed (I am using `git version 2.24.3 (Apple Git-128)` and so the discussions of the responses will refer to this) and so you can continue to the next section
+- If you do not have git installed it will open up a dialog window. Follow through with it, accepting the terms and conditions. Git will download.
+- Once the download has finished, run `git --version` again and you will see the version number. This confirms that the download was successful.
+
+### Configuring your details for git:
+Now we want to configure your name and email globally. These are the name and email which will be associated with the work which you have done (which will be associated with your git commits, a concept which we are going to learn more about). Setting them up globally means that these are the ones which will be used everywhere on your machine - they are not specific to the directory which you are in.
+
+In the terminal, run these commands:
+- `git config --global user.name "<your name>"`
+- `git config --global user.email "<your email>"`
+
+To check the name and email being used at any time you can run:
+- `git config --global user.name`
+- `git config --global user.email`
+And the responses will be the name/email being used.
+
+If you wish to change the name/email you are using in the future then the same commands can be used.
+
+## Exercise 3: Walk through an example of initialising a repository and making commits
 
 > 🎯 **Success criterion:** your own diagram of the working directory, staging area and repository, and a cheat sheet of the git commands you have used
 
@@ -80,13 +105,13 @@ Now that we have walked through how to add files and how to make commits, please
 I also recommend looking at your `README.md` file, these are in effect the cover page of your repository - it should explain what the repository is all about. We will discuss writing a good README in the future. 
 
 
-## Exercise 3: Walk through an example of pushing to a remote repository
+## Exercise 4: Walk through an example of pushing to a remote repository
 
 > 🎯 **Success criterion:** see your repository on GitHub from another device
 
 Now you know how to set up a local repository on your own machine and committed files to it, how do you back it up elsewhere? So if we want to protect against our computer breaking then we want to find a way to store this info off of our own laptops. We use a remote repository for this. We are going to host them on GitHub. GitHub is the most popular code hosting platform for software development, and the platform you will be using to see this at the moment!
 
-If you have not already, then create an account: choose a username which is professionally appropriate as you can build a reptutation through your account. Make sure you choose a password which you can remember - we will need to use it again soon.
+If you have not already, then create an account: choose a username which is professionally appropriate as you can build a reptutation through your account. Make sure you choose a password which you can remember - we will need to use it again soon. Use the same email which you have configued your machine to associate with your commits - you can check this by running `git config --global user.email` in the terminal.
 
 Continuing on from your work in Exercise 2 (Walk through an example of initialising a repository and making commits), follow [these steps](./push-to-remote.md) to create a remote repository and push you local repository up to it. It is now publicly available on the web. If you copy its url (`https://github.com/<your github username>/mark-induction--git-walk-through`), you can access it on your phone or other devices.
 
