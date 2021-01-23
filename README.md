@@ -84,8 +84,11 @@ Now you know how to set up a local repository on your own machine and committed 
 
 If you have not already, then create an account: choose a username which is professionally appropriate as you can build a reptutation through your account. Make sure you choose a password which you can remember - we will need to use it again soon.
 
-Continuing on from your work in Exercise 2 (Walk through an example of initialising a repository and making commits), follow [these steps](./push-to-remote.md) to create a remote repository and push you local repository up to it. It is now publicly available on the web. If you copy its url, you can access it on your phone or other devices.
+Continuing on from your work in Exercise 2 (Walk through an example of initialising a repository and making commits), follow [these steps](./push-to-remote.md) to create a remote repository and push you local repository up to it. It is now publicly available on the web. If you copy its url (`https://github.com/<your github username>/mark-induction--git-walk-through`), you can access it on your phone or other devices.
 
+If you navigate to `https://github.com/<your github username>/mark-induction--git-walk-through/commits` then you will see a list of the commits you have made. If you select each one then you can see what changed in each commit. We can use this to work out who contributed each aspect (so who to go to for questions), when each change was made and what it was trying to achieve (by reading the related commit message). This will become very helpful as we use git with large applications.
+
+If you naviagte to `https://github.com/WeAreAcademy/mark-induction--git-walk-through` then you can compare your repository to my example from the walk through, feel free to also explore the commits by adding `/commits` onto the url. 
 
 
 ## Exercise 5: Walk through an example of cloning someone else's repository
