@@ -26,7 +26,7 @@ tags:
 
 You have learned how to use the terminal to make commands and navigate through your directories. Now let's move on git, the software developer's answer to version control, which we will begin by using through the command line.
 
-In this repo, you can find information about version control and git, walk throughs of git scenarios and exercises to practice with.
+In this repo, you can find information about version control and git, walk throughs of git scenarios and exercises to practice with independantly.
 
 
 
