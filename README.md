@@ -19,7 +19,7 @@ tags:
 
 You have learned how to use the terminal to make commands and navigate through your directories. Now let's move on git, the software developer's answer to version control, which we will begin by using through the command line.
 
-In this repo, you can find information about version control and git, walk throughs of git scenarios and exercises to practice with independantly.
+In this repo, you can find information about version control and git, walk throughs of git scenarios and exercises to practice with independently.
 
 ## Prerequisites:
 
@@ -93,7 +93,7 @@ As you go through, we recommend:
 - Making your own diagram of how the working directory, staging area and repository related
 - Keeping a cheat sheet of the commands you use in the process of initialising a repository and committing to it.
 
-### Extension - continue independantly
+### Extension - continue independently
 
 Now that we have walked through how to add files and how to make commits, please run through the process of adding to each file and committing your changes (you can make changes to both files in the same commit or in separate commits). Why not add your notes on your understanding of version control and make a new file to add your list of git commands which you have met so far?
 
