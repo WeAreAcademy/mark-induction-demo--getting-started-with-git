@@ -118,19 +118,19 @@ Continuing on from your work in Exercise 2 (Walk through an example of initialis
 
 If you navigate to `https://github.com/<your github username>/mark-induction--git-walk-through/commits` then you will see a list of the commits you have made. If you select each one then you can see what changed in each commit. We can use this to work out who contributed each aspect (so who to go to for questions), when each change was made and what it was trying to achieve (by reading the related commit message). This will become very helpful as we use git with large applications.
 
-If you naviagte to `https://github.com/WeAreAcademy/mark-induction--git-walk-through` then you can compare your repository to my example from the walk through, feel free to also explore the commits by adding `/commits` onto the url.
+If you navigate to `https://github.com/WeAreAcademy/mark-induction--git-walk-through` then you can compare your repository to my example from the walk through, feel free to also explore the commits by adding `/commits` onto the url.
 
 ## Exercise 5: Walk through an example of cloning someone else's repository
 
 > 🎯 **Success criterion:** a copy of someone else's repository on your own machine
 
-So far, you have created a local repositry, committed to it and pushed your work up into the cloud on GitHub. We have already demonstrated that it is available from other devices, but how do they download a local copy of it?
+So far, you have created a local repository, committed to it and pushed your work up into the cloud on GitHub. We have already demonstrated that it is available from other devices, but how do they download a local copy of it?
 
 Continuing on from your work in Exercise 3 (Walk through an example of pushing to a remote repository), follow [these steps](./clone-remote.md) to clone someone else's repository onto your machine. Encourage someone else to clone your repository onto their machine so that you can both see each other's.
 
 ## Exercise 6: Working with different file types
 
-> 🎯 **Success criterion:** a github repository including code which your pair has clones and successfully ran
+> 🎯 **Success criterion:** a GitHub repository including code which your pair has cloned and successfully ran
 
 So far we have only included markdown files in our repositories, however we want to be able to use git for code as well. Let's practice further making repositories including code in them.
 
