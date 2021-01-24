@@ -72,6 +72,13 @@ In the terminal, run these commands:
 - `git config --global user.name "<your name>"`
 - `git config --global user.email "<your email>"`
 
+For example, if my name was João Bloggs, and my email address was `joao.bloggs@mydomain.com`, I would run:
+
+```bash
+git config --global user.name "João Bloggs"
+git config --global user.email "joao.bloggs@mydomain.com"
+```
+
 To check the name and email being used at any time you can run:
 
 - `git config --global user.name`
