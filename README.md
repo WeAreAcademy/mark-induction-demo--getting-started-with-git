@@ -36,7 +36,7 @@ Before following this content, we recommend you:
 - Stage changes made in a local repository
 - Commit staged changes to a local repository
 - Push a local repository to a remote repository on GitHub
-- Share directories between devices or individuals using git (push to a remote repository and clone from someone else's)
+- Clone someone else's repository off GitHub onto your local machine
 
 ## Exercise 1: Understanding version control and introducing git
 
