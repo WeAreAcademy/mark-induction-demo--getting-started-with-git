@@ -35,9 +35,18 @@ Let's check the status the file(s) in this directory:
 
 Untracked files are files which are in the working directory and not currently staged by git - if you were to take a snapshot now then they would not be included. However, you cannot take a snapshot if there are no staged files. 
 
+This diagram shows how your README is currently in the working directory:
+![working-directory.png](./images/working-directory.png)
+
 Add your README file to the staging area:
 - To add files or entire sub-directories to the staging area, we use `git add <file/directory>`
 - So in our case, run `git add README.md`
+
+This diagram illustrates `git add`:
+![grit-add.png](./images/git-add.png)
+
+And here is the state afterwards:
+![staging-area.png](./images/staging-area.png)
 
 We should check the status to see which files are staged: 
 - Run `git status`
@@ -66,6 +75,13 @@ Now if we check the status again, `git status`, we get:
 So:
 - We are still on the same branch, master
 - The working tree is clean. This means that no changes have been made since the last commit.
+
+This diagram illustrates `git commit`:
+![git-commit.png](./images/git-commit.png)
+
+And here is the state after:
+![local-repo.png](./images/local-repo.png)
+
 
 Now, let's make a change to a file: 
 - Open `README.md` and add the text `Here is something to read` and then save that file. 
