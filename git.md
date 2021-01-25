@@ -10,4 +10,4 @@ Software developers use version control both at work and for personal projects, 
 
 Git is the tool used to control file versions.
 
-GitHub is the platform used to host the git repositories.
+GitHub is the platform used to host the git repositories online. GitHub is the most widely used code hosting solution with 56 million users [according to Venture Beat](https://venturebeat.com/2020/12/02/github-python-and-typescript-gain-popularity-among-programming-languages/#:~:text=GitHub%20is%20now%20used%20by,and%2031%20million%20in%202018.&text=JavaScript%20continues%20to%20be%20the,the%20fast%2Dgrowing%20TypeScript%20community.). You may encounter GitHub's competitors (the likes of GitLab or BitBucket) in the future but they are easy to pick up once you are familiar with GitHub.
