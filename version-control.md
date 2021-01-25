@@ -4,9 +4,7 @@ Imagine you are collaborating with your university group on a project. Before go
 
 It would not be unusual to end up in a scenario where you're unsure of what's in each version, like this:
 
-<!-- TODO: add below image into the repo and update to relative path -->
-
-![image-20210114172220493](/Users/esmehotstonmoore/Library/Application Support/typora-user-images/image-20210114172220493.png)
+![group_project_files.png](./images/group_project_files.png)
 
 In scenarios like this, several people are editing several copies of one original document resulting in duplicates. This can happen if people are working at the same time or asynchronously off of old copies. To check everything makes sense together (and definitely before submitting), someone would have had to go through and combine the edits together. This is difficult because they may not know which is the most recent copy of each paragraph. Information often gets lost or does not fit together properly.
 
