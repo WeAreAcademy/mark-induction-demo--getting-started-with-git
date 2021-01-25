@@ -1,14 +1,14 @@
-
-
 ## What is version control?
 
-Imagine you are collaborating with your univeristy group on a project. Before google drive/docs/sheets, how would you have collated everyone's contributions together?
+Imagine you are collaborating with your university group on a project. Before google drive/docs/sheets, how would you have collated everyone's contributions together?
 
 It would not be unusual to end up in a scenario where you're unsure of what's in each version, like this:
 
+<!-- TODO: add below image into the repo and update to relative path -->
+
 ![image-20210114172220493](/Users/esmehotstonmoore/Library/Application Support/typora-user-images/image-20210114172220493.png)
 
-In scenarios like this, several people are editting several copies of one original document resulting in duplicates. This can happen if people are working at the same time or asynchronously off of old copies.  To check everything makes sense together (and definitely before submitting), someone would have had to go through and combine the edits together. This is difficult because they may not know which is the most recent copy of each paragraph. Information often gets lost or does not fit together properly. 
+In scenarios like this, several people are editing several copies of one original document resulting in duplicates. This can happen if people are working at the same time or asynchronously off of old copies. To check everything makes sense together (and definitely before submitting), someone would have had to go through and combine the edits together. This is difficult because they may not know which is the most recent copy of each paragraph. Information often gets lost or does not fit together properly.
 
 These challenges are not dissimilar to those which software teams face when collaborating in a code base:
 
@@ -26,8 +26,3 @@ Let's consider your Prework game projects for a concrete example of how version 
 ### Optional further reading
 
 For more information about version control generally, look at [Atlassian's page](https://www.atlassian.com/git/tutorials/what-is-version-control). A more technical discussion of types of verison control system [can be found in the git documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) for those with a deeper interest.
-
-
-
-
-
