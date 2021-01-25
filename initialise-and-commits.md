@@ -33,7 +33,7 @@ Let's check the status the file(s) in this directory:
 - It tells you that you have one untracked file (`README.md`)
 - It may also mention another file `.DS_Store` - if so do not worry this is to do with Mac folder systems
 
-Untracked files are files which are not currently staged by git - if you were to take a snapshot now then they would not be included. However, you cannot take a snapshot if there are no staged files. 
+Untracked files are files which are in the working directory and not currently staged by git - if you were to take a snapshot now then they would not be included. However, you cannot take a snapshot if there are no staged files. 
 
 Add your README file to the staging area:
 - To add files or entire sub-directories to the staging area, we use `git add <file/directory>`

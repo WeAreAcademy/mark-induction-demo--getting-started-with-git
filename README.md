@@ -25,7 +25,7 @@ In this repo, you can find information about version control and git, walk throu
 
 Before following this content, we recommend you:
 
-- Have some familiarity with the command line
+- Have some familiarity with the command line (our intro session is adequate).
 - Install Visual Studios Code [(according to these steps for our scholars on Macs)](./vs-code-installation.md)
 
 ## Learning objectives:
@@ -53,7 +53,7 @@ It might be helpful for you to make notes of your understanding as you go along 
 
 > 🎯 **Success criterion:** having git downloaded and setting up your name and email globally
 
-If you have not used git on your Mac before then you will need to do some basic set up to get started.
+If you have not used git on your Mac before then you will need to do some basic set up to get started. 
 
 ### Installing git:
 
@@ -73,7 +73,7 @@ In the terminal, run these commands:
 - `git config --global user.name "<your name>"`
 - `git config --global user.email "<your email>"`
 
-For example, if my name was João Bloggs, and my email address was `joao.bloggs@mydomain.com`, I would run:
+By convention, angle brackets show where to insert specific info. For example, if my name was João Bloggs, and my email address was `joao.bloggs@mydomain.com`, I would run:
 
 ```bash
 git config --global user.name "João Bloggs"
@@ -101,7 +101,7 @@ As you go through, we recommend:
 - Making your own diagram of how the working directory, staging area and repository related
 - Keeping a cheat sheet of the commands you use in the process of initialising a repository and committing to it.
 
-### Extension - continue independently
+### Extension: Continue independently
 
 Now that we have walked through how to add files and how to make commits, please run through the process of adding to each file and committing your changes (you can make changes to both files in the same commit or in separate commits). Why not add your notes on your understanding of version control and make a new file to add your list of git commands which you have met so far?
 
