@@ -22,6 +22,12 @@ Later we will push to the upstream repo using `git push` however if you run it h
 
 Therefore, let's set the upstream branch using `git push --set-upstream origin master`. This means we are both pushing and setting the upstream branch to be a branch on the remote repo (origin) and that that branch will be called `master`. We will explore branches next session.
 
+This diagram illustrates `git push`:
+![git-push.png](./images/git-push.png)
+
+And here is the state afterwards:
+![remote-repo.png](./images/remote-repo.png)
+
 Open your repo on github and you can now see both files `README.md` and `version-control.md` and their contents.
 
 As we go forwards, everytime we make commits locally we should push them up to the remote repository - this will act as our backup in case we were to have a problem with our local machine.
