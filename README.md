@@ -26,6 +26,7 @@ In this repo, you can find information about version control and git, walk throu
 Before following this content, we recommend you:
 
 - Have some familiarity with the command line
+- Install Visual Studios Code [(according to these steps for our scholars on Macs)](./vs-code-installation.md)
 
 ## Learning objectives:
 
